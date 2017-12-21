@@ -33,5 +33,8 @@ fs.readdir(inputDir, (_err, files) => {
 });
 
 const processFile = (data) => {
-  // This is where our actual code goes
+  data.strategies.forEach(async strategy => {
+    // Use auto-generated Ids for the documents
+    await index.add(strategy);
+  });
 };

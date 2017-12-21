@@ -27,7 +27,8 @@ fs.readdir(inputDir, (_err, files) => {
     });
   });
   Promise.all(promises).then(async () => {
-    await queryNoise('find {} return count()');
+    await queryNoise(
+      'find {fy2017: {netOrGross: == "Net"}} return sum(.fy2017.amount)');
     console.log("Done.");
     index.close();
   });

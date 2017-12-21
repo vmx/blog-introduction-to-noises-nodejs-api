@@ -3,18 +3,32 @@
 
 const fs = require('fs');
 const path = require('path');
+const noise = require('noise-search');
 
 // The only command line argument is the directory where the data files are
 const inputDir = process.argv[2];
 console.log(`Loading data from ${inputDir}`);
 
+const index = noise.open('costsavings', true);
+
 fs.readdir(inputDir, (_err, files) => {
-  files.forEach(file => {
-    fs.readFile(path.join(inputDir, file), (_err, data) => {
-      console.log(file);
-      const json = JSON.parse(data);
-      processFile(json);
+  const promises = files.map(file => {
+    return new Promise((resolve, reject) => {
+      fs.readFile(path.join(inputDir, file), (err, data) => {
+        if (err) {
+          reject(err);
+          throw err;
+        }
+
+        console.log(file);
+        const json = JSON.parse(data);
+        resolve(processFile(json));
+      });
     });
+  });
+  Promise.all(promises).then(() => {
+    console.log("Done.");
+    index.close();
   });
 });
 

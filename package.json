@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vmx/blog-introduction-to-noises-nodejs-api/issues"
   },
-  "homepage": "https://github.com/vmx/blog-introduction-to-noises-nodejs-api#readme"
+  "homepage": "https://github.com/vmx/blog-introduction-to-noises-nodejs-api#readme",
+  "dependencies": {
+    "noise-search": "^0.7.4"
+  }
 }

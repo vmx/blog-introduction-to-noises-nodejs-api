@@ -1,0 +1,481 @@
+{
+	"strategies": [{
+		"strategyId": 2,
+		"strategyTitle": "Grants Management Consolidation",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "In FY16 OPE IDC has transitioned their effort from consolidation of the annual performance reporting applications to upgrading the applications to a COTS solution and migrating the applications to a cloud data center. Due to transition costs associated with these initiatives, OPE does not expect to see any cost savings/avoidances in FY16, but should begin seeing cost savings/avoidances in FY17 and significant cost savings/avoidances beyond FY17 as the applications are migrated and upgraded.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000000076"],
+		"fy2012": {
+			"amount": 4.118,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 1.746,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 4.507,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.111,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 7,
+		"strategyTitle": "Human Resources Management (Business Systems) Kronos T&A",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Commodity IT",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000002015"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.060,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 8,
+		"strategyTitle": "Information Collection Request Review Approval System (ICRAS) Web Hosting Infrastructure Management",
+		"decisionDate": "10/01/2012",
+		"ombInitiative": "Commodity IT",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000006022"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.150,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 1,
+		"strategyTitle": "Web Platform Consolidation",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to invest savings back into the common web platform.  Current project is to reduce CMS’s from 3 to 2 by September 30, 2019.  Cost reduction will be calculated then in terms of hosting, licensing, O&M and support staff.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001018"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.030,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 5,
+		"strategyTitle": "Federal Data Center Consolidation Initiative (FDCCI)",
+		"decisionDate": "02/26/2010",
+		"ombInitiative": "Data Center",
+		"useOfSavingsAvoidance": "The Department intends to invest savings and cost avoidance realized from the FDCCI and consolidation into common enabling services.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.247,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.235,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.235,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.235,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.308,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.3950,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 3,
+		"strategyTitle": "Enterprise License Use, Consolidation and Management",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "Software Licensing (M-16-12): As an initial step to optimizing the acquisition to software licenses, ED has consolidated all software licensing related investments into one non-major IT investment. The consolidation will aid in the identification of any duplication in software acquisition. As a next step, as the term of the licenses expire ED will evaluate the suitability of participating in the government-wide enterprise software licenses and government-wide blanket purchase agreements as appropriate to acquire replacement software licenses.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.030,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 4,
+		"strategyTitle": "Infrastructure Optimization",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings and avoidance to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001020", "018-000007901"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.244,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.424,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 1.939,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 1.1860,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 6,
+		"strategyTitle": "Education Resources Information Center (ERIC) Web to the Cloud",
+		"decisionDate": "09/30/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to invest savings back into the new, combined Knowledge Utilization investment.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001031"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 2.333,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 9,
+		"strategyTitle": "OneDrive Migration",
+		"decisionDate": "09/26/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.2270,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 10,
+		"strategyTitle": "Email/Office 365",
+		"decisionDate": "04/01/2013",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.1820,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.4240,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.9280,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.9640,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 11,
+		"strategyTitle": "CPSS II - Contract Writing System Replacement Project",
+		"decisionDate": "08/31/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "OCIO intends to reinvest the cost savings and avoidance in the upgrade of the legacy CWS Comprizon product and supporting infrastructure.  Since Comprizon was intended to be retired, no investments were made in maintenance of the platform which now must be upgraded in order to also upgrade the application and remain in compliance with statutory acquisition and FISMA regulations.  Additional cost savings have been reinvested in the Oracle Financials R12 Migration project.",
+		"amountType": "Both",
+		"relatedUIIs": ["018-000001070", "018-000001024"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.400,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 12,
+		"strategyTitle": "FSSI Mobile",
+		"decisionDate": "01/15/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "The Department intends to reinvest cost savings to further enhance IT mobility, streamline additional costs and implement innovative IT solutions.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001020"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.0563,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.2660,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 13,
+		"strategyTitle": "R12 Upgrade",
+		"decisionDate": "08/01/2016",
+		"ombInitiative": "Commodity IT",
+		"useOfSavingsAvoidance": "Cost avoided will be available for other IT initiatives.",
+		"amountType": "Cost-Avoidance",
+		"relatedUIIs": ["018-000001024"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 14.000,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 14,
+		"strategyTitle": "Annual Disaster Recovery Field Testing",
+		"decisionDate": "03/02/2015",
+		"ombInitiative": "Other",
+		"useOfSavingsAvoidance": "Cost savings will be available for other undertakings.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000001040"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0.012,
+			"netOrGross": "Gross"
+		}
+	},{
+		"strategyId": 15,
+		"strategyTitle": "FSA Software License Consolidation and Management",
+		"decisionDate": "03/20/2017",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "Funds made available from this investment have supported several key initiatives that required additional budget amounts.",
+		"amountType": "Cost-Savings",
+		"relatedUIIs": ["018-000008005"],
+		"fy2012": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.000,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.6709,
+			"netOrGross": "Net"
+		}
+	}]
+}

@@ -1,0 +1,967 @@
+{
+  "strategies": [
+    {
+      "strategyId": 1,
+      "strategyTitle": "Adobe Licenses",
+      "decisionDate": "08/31/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.012,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.012,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.01,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.01,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 1,
+      "strategyTitle": "ECMO, (Enterprise Cybersecurity Monitoring & Operations)",
+      "decisionDate": "10/01/2011",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 2,
+      "strategyTitle": "TIC (Trusted Internet Connection)",
+      "decisionDate": "08/01/2011",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 2,
+      "strategyTitle": "Blade Server Migration",
+      "decisionDate": "09/30/2013",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 6.4,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 3,
+      "strategyTitle": "Cellular and Data Services",
+      "decisionDate": "03/23/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Shared Services",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.013,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.013,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.01,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.01,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 4,
+      "strategyTitle": "Cyber Security Assessment and Management (CSAM) Re-Host",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Shared Services",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.001,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.001,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.001,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 5,
+      "strategyTitle": "Data Center Consolidation",
+      "decisionDate": "08/03/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Shared Services",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "006-000351100"
+      ],
+      "fy2012": {
+        "amount": 0.07,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 45.6,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 78.7,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 110.98,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 141.378,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 204.02,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 6,
+      "strategyTitle": "Desktop and Laptop Management",
+      "decisionDate": "08/03/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Shared Services",
+      "amountType": "Cost-Avoidance",
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 1.2,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 2.9,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 10.788,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0.362,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 7,
+      "strategyTitle": "Endpoint Security Software Blanket Purchase",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.45,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 8,
+      "strategyTitle": "Enterprise-Wide IT Security Assessment and Authorization",
+      "decisionDate": "08/03/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Avoidance",
+      "fy2012": {
+        "amount": 1.8,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 1.8,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 9,
+      "strategyTitle": "Search Engine Migration",
+      "decisionDate": "08/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "discontinued services",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.038,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.04,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 10,
+      "strategyTitle": "Software Suite",
+      "decisionDate": "01/01/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "006-000403600"
+      ],
+      "fy2012": {
+        "amount": 0.25,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.25,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 11,
+      "strategyTitle": "Storage Area Network Consolidation",
+      "decisionDate": "01/01/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "006-000401700"
+      ],
+      "fy2012": {
+        "amount": 6.7,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 7.7,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 12,
+      "strategyTitle": "Surplus Equipment from US Census Bureau",
+      "decisionDate": "06/30/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Other",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.028,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 13,
+      "strategyTitle": "Enterprise Software Purchasing Program",
+      "decisionDate": "01/01/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "006-000401700"
+      ],
+      "fy2012": {
+        "amount": 1.08,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 14,
+      "strategyTitle": "Federal Data Center Consolidation Initiative - Census",
+      "decisionDate": "01/01/2010",
+      "ombInitiative": "Data Center",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "006-000401500"
+      ],
+      "fy2012": {
+        "amount": 0.32,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 2.3,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 15,
+      "strategyTitle": "NIST Participation in the DOC Customer User Purchasing Agreement",
+      "decisionDate": "02/23/2012",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.65,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 2.01,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 16,
+      "strategyTitle": "Personal Computer Purchasing Agreement",
+      "decisionDate": "04/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Shared Services",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0.06,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.02,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.135,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.1,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 17,
+      "strategyTitle": "Server Virtualization",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Data Center",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "006-000401700"
+      ],
+      "fy2012": {
+        "amount": 2.12,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 4.51,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 5.15,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 1.35,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 18,
+      "strategyTitle": "Virtualization First",
+      "decisionDate": "01/01/2008",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "006-000401700"
+      ],
+      "fy2012": {
+        "amount": 7.4,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 5.3,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 19,
+      "strategyTitle": "AREMOS Licensing",
+      "decisionDate": "02/01/2015",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.73,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0.05,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 20,
+      "strategyTitle": "Server Consolidation and Improvements",
+      "decisionDate": "09/30/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Funds used for general maintenance, refresh",
+      "amountType": "Both",
+      "fy2012": {
+        "amount": 0.831,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.425,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.315,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.358,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 21,
+      "strategyTitle": "Data Center Consolidation by Census",
+      "decisionDate": "09/30/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Cost avoidance realized to date based on closing the Secondary Computer Center and 6 Regional Offices.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "006-000401500"
+      ],
+      "fy2012": {
+        "amount": 1.96,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 1.9,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 2,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.65,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.25,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 22,
+      "strategyTitle": "Non-managed Hosting (Supporting Data Center Consolidation) by Census",
+      "decisionDate": "09/30/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Cost savings realized to date based on non-managed hosting client (ITA) paying their portion of the rent and utilities.  This provides cost savings to the Bowie Computer Center.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "006-000401500"
+      ],
+      "fy2012": {
+        "amount": 0.43,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.45,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.36,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.33,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 23,
+      "strategyTitle": "Server Virtualization Optimization",
+      "decisionDate": "07/01/2013",
+      "ombInitiative": "Data Center",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "006-000051100"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.315,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.555,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.09,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 24,
+      "strategyTitle": "Cloud Email",
+      "decisionDate": "05/15/2013",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "006-000051100"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 45,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 35,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 15,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 25,
+      "strategyTitle": "Cloud Infrastruture as a service (IaaS)",
+      "decisionDate": "07/01/2014",
+      "ombInitiative": "Data Center",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "006-000051100"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 128,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 128,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 128,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 120,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 26,
+      "strategyTitle": "NASA SEWP",
+      "decisionDate": "10/01/2017",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "006-000051100"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 2.484,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 27,
+      "strategyTitle": "ITSS for Server Maintenance",
+      "decisionDate": "10/01/2017",
+      "ombInitiative": "Commodity IT",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "006-000051100"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.273,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.273,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 28,
+      "strategyTitle": "Use PaaS Cloud Service to host public facing external NIST website (www.nist.gov)",
+      "decisionDate": "10/01/2017",
+      "ombInitiative": "Other",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "00070220"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.269,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 29,
+      "strategyTitle": "Closing CR2 at SFC",
+      "decisionDate": "10/01/2017",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Cost avoidance for closing a data center.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "006-000401500"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0.3,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 30,
+      "strategyTitle": "Microsoft Office 365",
+      "decisionDate": "09/01/2017",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Migrate AWS to Office 365 Azure",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "006-000051100"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 100,
+        "netOrGross": "Net"
+      }
+    }
+  ]
+}

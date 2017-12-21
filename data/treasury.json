@@ -1,0 +1,749 @@
+{
+	"strategies": [{
+			"strategyId": 1,
+			"strategyTitle": "Virtual Desktop",
+			"decisionDate": "06/01/2010",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Commodity IT",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 2,
+			"strategyTitle": "Open Source",
+			"decisionDate": "02/06/2013",
+			"ombInitiative": "Other",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.162,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 3,
+			"strategyTitle": "Website Hosting, Treasury.gov",
+			"decisionDate": "01/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Other",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0.15,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.15,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.15,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 4,
+			"strategyTitle": "Do Not Pay (DNP)",
+			"decisionDate": "4/27/2011",
+			"ombInitiative": "Other",
+			"relatedUIIs": ["015-00000297"],
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 9.66,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 25.36,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 74.87,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 58.8,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 51.93,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 51.93,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 5,
+			"strategyTitle": "Invoice Processing Platform (IPP)",
+			"decisionDate": "04/25/2006",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The Bureau of the Fiscal Service provides IPP to agencies at no cost.  The use of any cost savings achieved by agencies that  implement IPP are at the discretion of each  agency and or departmentt.",
+			"relatedUIIs": ["015-00000037"],
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 3.45,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 4.85,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 4.85,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 5.75,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 6.2,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 9,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 11.25,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 6,
+			"strategyTitle": "Voip",
+			"decisionDate": "01/01/2011",
+			"ombInitiative": "Other",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 6.7,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 52.8,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 7,
+			"strategyTitle": "Commodity IT Consolidation",
+			"decisionDate": "12/09/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Other",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 10,
+			"strategyTitle": "Financial Crimes Enforcement Network JBoss Licensing",
+			"decisionDate": "01/03/2014",
+			"ombInitiative": "Other",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.073,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 11,
+			"strategyTitle": "Financial Crimes Enforcement Network Remote/Telework",
+			"decisionDate": "03/04/2014",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.035,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 12,
+			"strategyTitle": "Treasury Infrastructure Efficiency Initiatives Savings",
+			"decisionDate": "01/01/2010",
+			"ombInitiative": "Data Center",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 112.19,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 295.24,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 309,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 346.4,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 13,
+			"strategyTitle": "Microsoft Licensing",
+			"decisionDate": "07/30/2014",
+			"ombInitiative": "Other",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.83,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 14,
+			"strategyTitle": "OCC Server Virtualization",
+			"decisionDate": "04/01/2011",
+			"ombInitiative": "PortfolioStat",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.1,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.25,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.3,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.3,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.1,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 15,
+			"strategyTitle": "Printer Consolidation",
+			"decisionDate": "06/11/2015",
+			"ombInitiative": "Commodity IT",
+			"relatedUIIs": ["015-000-000-372"],
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.06,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.06,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0.06,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 16,
+			"strategyTitle": "Server Storage Maintenance",
+			"decisionDate": "06/12/2015",
+			"ombInitiative": "Commodity IT",
+			"relatedUIIs": ["015-000-000-371", "015-000000040"],
+			"useOfSavingsAvoidance": "Investing funding into additional storage space needed without increasing the budget.",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.24,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0.24,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 8,
+			"strategyTitle": "Alcohol and Tobacco Tax and Trade Bureau Consolidation",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Other",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.079,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 9,
+			"strategyTitle": "Bureau of Engraving and Printing IT Process Streamlining",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Other",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0.2,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 3,
+			"strategyTitle": "Business Process Management Status",
+			"decisionDate": "12/09/2011",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 1,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 4,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 3,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 17,
+			"strategyTitle": "Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Data Center",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 1.16,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 9.07,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 10.28,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 10.28,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 17,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 17.25,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 17.5,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 18,
+			"strategyTitle": "Financial Crimes Enforcement Network Utilization of Treasury's Public Key Infrastructure",
+			"decisionDate": "01/01/2014",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.061,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 19,
+			"strategyTitle": "Enterprise Content Management",
+			"decisionDate": "10/31/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Shared Services",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 1.125,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 4.961,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 8.171,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 9.182,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 9.379,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 10.549038,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 10.549038,
+				"netOrGross": "Net"
+			}
+		},
+		{
+			"strategyId": 20,
+			"strategyTitle": "Treasury PKI",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Commodity IT",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.061,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}
+	]
+}

@@ -1,0 +1,252 @@
+{
+    "strategies": [
+        {
+            "strategyId": 1,
+            "strategyTitle": "Harmonize Identity Management and Access Control Across VA",
+            "decisionDate": "10/01/2013",
+            "ombInitiative": "Other",
+            "amountType": "Cost-Avoidance",
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0.91,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 25.59,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 40.84,
+                "netOrGross": "Net"
+            
+            },
+            "fy2016": {
+                "amount": 32.36,
+                "netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 38.12,
+                "netOrGross": "Net"
+
+            },
+	    "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+	    }
+        },
+        {
+            "strategyId": 5,
+            "strategyTitle": "VA Integrated Service Network Data Warehouse Elimination",
+            "decisionDate": "10/01/2013",
+            "ombInitiative": "Other",
+            "amountType": "Cost-Avoidance",
+            "fy2012": {
+                "amount": 0.15,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+	{
+            "strategyId": 8,
+            "strategyTitle": "Server Virtualization",
+            "decisionDate": "10/01/2012",
+            "ombInitiative": "Data Center",
+            "amountType": "Cost-Avoidance",
+            "fy2012": {
+                "amount": 1.79,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0.42,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+	{
+            "strategyId": 9,
+            "strategyTitle": "Renegotiation of Enterprise License Agreement (Microsoft)",
+            "decisionDate": "10/01/2012",
+            "ombInitiative": "Commodity IT",
+            "amountType": "Cost-Avoidance",
+            "fy2012": {
+                "amount": 13,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 37,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 37,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 37,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 37,
+                "netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 68.3,
+                "netOrGross": "Net"
+            },
+            "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 10,
+            "strategyTitle": "Strategic Capital Investment Planning/Capital Asset Management System Redesign",
+            "decisionDate": "10/01/2012",
+            "ombInitiative": "Commodity IT",
+            "amountType": "Cost-Avoidance",
+            "fy2012": {
+                "amount": 1,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 11,
+            "strategyTitle": "VA Region 2 and 3 VistA migration",
+            "decisionDate": "07/13/2011",
+            "ombInitiative": "Data Center",
+            "useOfSavingsAvoidance": "Other: Cost avoidance was money that did not have to be budgeted to implement the project",
+            "amountType": "Cost-Avoidance",
+            "fy2012": {
+                "amount": 3.8,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 4.8,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 5.0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 4.0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 3.8,
+                "netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 12,
+            "strategyTitle": "Commodities Enterprise Contract (CEC)",
+            "decisionDate": "10/01/2013",
+            "ombInitiative": "Commodity IT",
+            "amountType": "Both",
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 36.74,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 64.66,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 13.16,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 59.77,
+		"netOrGross": "Net"
+	    },
+            "fy2017": {
+                "amount": 39.51,
+                "netOrGross": "Net"
+            },
+            "fy2018": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        }
+    ]
+}

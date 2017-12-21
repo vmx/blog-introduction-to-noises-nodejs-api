@@ -1,0 +1,1171 @@
+	{
+		"strategies": [{
+			"strategyId": 1,
+			"strategyTitle": "FAA:Consolidated IT Organization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0.093743,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.17,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 15.1,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 14.1,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 22.4,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 13.81,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+
+		}, {
+			"strategyId": 2,
+			"strategyTitle": "MARAD: MarView retirement",
+			"decisionDate": "11/08/2013",
+			"ombInitiative": "Other",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.9,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 3,
+			"strategyTitle": "MARAD:USMMA Student Information System retirement",
+			"decisionDate": "04/15/2015",
+			"ombInitiative": "Other",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.67,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 4,
+			"strategyTitle": "MARAD:USMMA Distance Learning System",
+			"decisionDate": "04/15/2015",
+			"ombInitiative": "Digital Services",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.279,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 5,
+			"strategyTitle": "MARAD:USMMA Financial Management System",
+			"decisionDate": "06/20/2012",
+			"ombInitiative": "Digital Services",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.256,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 6,
+			"strategyTitle": "MARAD:Credit Programs Portfolio Management System (CPPMS)",
+			"decisionDate": "07/30/2013",
+			"ombInitiative": "Digital Services",
+			"amountType": "Both",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.232,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 7,
+			"strategyTitle": "PHMSA: Sharepoint Shared Service (PHMSA011 Office Automation)",
+			"decisionDate": "03/15/2013",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 8,
+			"strategyTitle": "PHMSA: Vignette Shared Service (PHMSA011 Office Automation)",
+			"decisionDate": "03/07/2013",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.09,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.09,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.09,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 9,
+			"strategyTitle": "PHMSA: Server Virtualization",
+			"decisionDate": "10/12/2012",
+			"ombInitiative": "Data Center",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.32,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.32,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.32,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 10,
+			"strategyTitle": "FAA: Data Center Consolidation/Optimization",
+			"decisionDate": "09/24/2013",
+			"ombInitiative": "Data Center",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.38,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.56,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 3.39,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 11,
+			"strategyTitle": "FRA: Mobile Workforce Initiative Wireless Services (MWI)",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0.0983,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.17,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.102,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.225,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.08,
+				"netOrGross": "Gross"
+
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 12,
+			"strategyTitle": "FAA: Commodity IT Consolidation",
+			"decisionDate": "-",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 42.82,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 48.12,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 41.44,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 15.56,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 13,
+			"strategyTitle": "FHWA: Fiscal Management Information System (FMIS) Enhancement",
+			"decisionDate": "07/24/2013",
+			"ombInitiative": "Other",
+			"amountType": "Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.62,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 14,
+			"strategyTitle": "FAA: Cloud Email",
+			"decisionDate": "06/01/2012",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost-Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 2.26,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 1.88,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 2.15,
+				"netOrGross": "Net"
+			}
+}, {
+			"strategyId": 15,
+			"strategyTitle": "FAA: Lifecycle Management",
+			"decisionDate": "10/01/2016",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 12.49,
+				"netOrGross": "Net"
+			}
+}, {
+			"strategyId": 16,
+			"strategyTitle": "PHMSA: PRISM to DP2",
+			"decisionDate": "08/01/2016",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+}, {
+			"strategyId": 17,
+			"strategyTitle": "NHTSA: Additional Cloud Capacity",
+			"decisionDate": "10/01/2016",
+			"ombInitiative": "DCOI",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.715,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 18,
+			"strategyTitle": "NHTSA: Reinvested in additional Cloud services",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "DCOI",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.05,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.02,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 19,
+			"strategyTitle": "NHTSA020: NHTSA Artemis",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.075,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 20,
+			"strategyTitle": "NHTSA888: NHTSA Common IT Services",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.1,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 21,
+			"strategyTitle": "NHTSA Portal",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Other",
+			"amountType": "Cost Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.05,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.05,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 22,
+			"strategyTitle": "NHTSA Software Licensing Management",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Software License Management",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.7,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 23,
+			"strategyTitle": "NHTSA020: Artemis",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Other",
+			"amountType": "Cost Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 22.5,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 24,
+			"strategyTitle": "NHTSA020: Artemis Asset Modernization Effort",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 1.5,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 25,
+			"strategyTitle": "NHTSA348: Grants Program Suite",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.7,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 26,
+			"strategyTitle": "NHTSA888: NHTSA Common IT Services",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "DCOI",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.61237,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 27,
+			"strategyTitle": "MARAD015: Operating Environment",
+			"decisionDate": "11/01/2017",
+			"ombInitiative": "DCOI",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.074,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 28,
+			"strategyTitle": "PHMSA: IT Modernization O&M Support for PHMSA Portal",
+			"decisionDate": "9/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.076,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 29,
+			"strategyTitle": "PHMSA: Server Refresh Warranty",
+			"decisionDate": "9/01/2017",
+			"ombInitiative": "Other",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.066,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.066,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 30,
+			"strategyTitle": "FHWA: FMIS 5.0 upgrade",
+			"decisionDate": "9/01/2017",
+			"ombInitiative": "Other",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.620,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 31,
+			"strategyTitle": "FAA: Cloud Email",
+			"decisionDate": "6/01/2012",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount":2.26,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount":1.88,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+}, {
+			"strategyId": 32,
+			"strategyTitle": "FAA: Lifecycle Management",
+			"decisionDate": "10/01/2016",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount":0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount":0,
+				"netOrGross": "Net"
+			},
+			"fy2018": {
+				"amount": 12.49,
+				"netOrGross": "Net"
+			}
+}, {
+			"strategyId": 33,
+			"strategyTitle": "FMCSA: Migrated isolated web based system",
+			"decisionDate": "2/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount":0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount":3.2,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 34,
+			"strategyTitle": "FMCSA: Utilizing Shared services - Academy Printers purchased out of COE",
+			"decisionDate": "9/01/2017",
+			"ombInitiative": "Commodity IT",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount":0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount":0,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0.031,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 35,
+			"strategyTitle": "FMCSA: Migration of web development and management labor from contracted labor to federal employee",
+			"decisionDate": "11/01/2015",
+			"ombInitiative": "Other",
+			"amountType": "Cost Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount":0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount":0.600,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+}, {
+			"strategyId": 36,
+			"strategyTitle": "FMCSA: Strategic descoping of major IT project",
+			"decisionDate": "01/15/2015",
+			"ombInitiative": "Other",
+			"amountType": "Cost Savings",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount":0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount":7.737,
+				"netOrGross": "Gross"
+			},
+			"fy2018": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+
+		}]
+	}

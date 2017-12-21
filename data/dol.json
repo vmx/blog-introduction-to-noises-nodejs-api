@@ -1,0 +1,268 @@
+{
+"strategies": [
+    {
+        "strategyId": 1,
+        "strategyTitle": "Web Conferencing and Collaboration",
+        "decisionDate": "07/31/2012",
+        "ombInitiative": "Commodity IT",
+        "useOfSavingsAvoidance": "Operational Efficiencies",
+        "amountType": "Cost-Avoidance",
+        "relatedUIIs": ["012-000000106"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 1.16,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 1.89,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 2.28,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 2.48,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 2.66,
+                "netOrGross": "Net"
+            }            
+    },
+    {
+        "strategyId": 3,
+        "strategyTitle": "Data Center Consolidation Initiative",
+        "decisionDate": "10/01/2013",
+        "ombInitiative": "Data Center",
+        "useOfSavingsAvoidance": "The DOL will continue the expansion of the COE environment to further accommodate the consolidation of the applications and services across the enterprise, develop a robust DR capability and location and ready its applications and infrastructure for expansion into a cloud environment.",
+        "amountType": "Cost-Avoidance",
+        "relatedUIIs": ["012-000000139"],
+            "fy2012": {
+                "amount": 0.011,
+                "netOrGross": "Gross"
+            },
+            "fy2013": {
+                "amount": 0.156,
+                "netOrGross": "Gross"
+            },
+            "fy2014": {
+                "amount": 0.878,
+                "netOrGross": "Gross"
+            },
+            "fy2015": {
+                "amount": 1.518,
+                "netOrGross": "Gross"
+            },
+            "fy2016": {
+                "amount": 2.101,
+                "netOrGross": "Gross"
+            },
+            "fy2017": {
+                "amount": 2.701,
+                "netOrGross": "Gross"
+            }
+    },
+    {
+        "strategyId": 12,
+        "strategyTitle": "DOL Top 5 Software Publishers Cost Savings",
+        "decisionDate": "09/30/2015",
+        "ombInitiative": "Software License Management",
+        "useOfSavingsAvoidance": "The cost avoidance will be used for unfunded mandates to support DOL agency missions.",
+        "amountType": "Cost-Avoidance",
+        "relatedUIIs": ["012-000000106","012-000000033","012-000000087"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0.069,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+    },
+    {
+        "strategyId": 13,
+        "strategyTitle": "DCOI Operational Cost Reduction",
+        "decisionDate": "05/15/2017",
+        "ombInitiative": "Data Center",
+        "useOfSavingsAvoidance": "Cost savings were provided back to the agencies (customers) for considered FY 2017 reinvestment.",
+        "amountType": "Cost-Savings",
+        "relatedUIIs": ["012-000000139"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2017": {
+                "amount": 5.231,
+                "netOrGross": "Gross"
+            }
+    },
+    {
+        "strategyId": 14,
+        "strategyTitle": "DOLNet Transport Efficiencies",
+        "decisionDate": "05/15/2017",
+        "ombInitiative": "Commodity IT",
+        "useOfSavingsAvoidance": "Cost savings were provided back to the agencies (customers) for FY 2017 reinvestment in IT modernization efforts.",
+        "amountType": "Cost-Savings",
+        "relatedUIIs": ["012-000000139","012-000000141","012-000000033"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 7.582,
+                "netOrGross": "Net"
+            }
+    },
+    {
+        "strategyId": 15,
+        "strategyTitle": "Windows 10 Upgrade - Cost Efficiencies",
+        "decisionDate": "05/15/2017",
+        "ombInitiative": "Commodity IT",
+        "useOfSavingsAvoidance": "Cost savings were utilized to offset DOL client agency workstation costs as part of the refresh of their aging laptop fleet.",
+        "amountType": "Cost-Savings",
+        "relatedUIIs": ["012-000000141"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 1.603,
+                "netOrGross": "Net"
+            }
+    },
+    {
+        "strategyId": 16,
+        "strategyTitle": "Service Desk Usage Efficiencies",
+        "decisionDate": "08/01/2017",
+        "ombInitiative": "Commodity IT",
+        "useOfSavingsAvoidance": "Cost savings were utilized to offset DOL client agency workstation costs as part of the refresh of their aging laptop fleet.",
+        "amountType": "Cost-Savings",
+        "relatedUIIs": ["012-000000141"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 1.515,
+                "netOrGross": "Net"
+            }
+    },
+    {
+        "strategyId": 17,
+        "strategyTitle": "IT Operations Cost Reductions",
+        "decisionDate": "05/15/2017",
+        "ombInitiative": "Other",
+        "useOfSavingsAvoidance": "Cost savings to be reinvested in IT modernization efforts.",
+        "amountType": "Cost-Savings",
+        "relatedUIIs": ["012-000000106"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Gross"
+            }
+    }
+]
+}

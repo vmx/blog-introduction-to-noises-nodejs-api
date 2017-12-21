@@ -1,0 +1,69 @@
+{ "strategies": [{ 
+    "strategyID": 1,
+    "strategyTitle": "Data Center Consolidation and Optimization",
+    "decisionDate": "02/28/2017",
+    "ombInitiative": "Data Center",
+    "relatedUIIs": "",
+    "useOfSavingsAvoidance": "",
+    "amountType": "Cost-Avoidance",
+    "fy2012": {
+    	"amount": 4.3,
+    	"netOrGross": "Net"
+    },
+    "fy2013": {
+    	"amount": 15.2,
+    	"netOrGross": "Net"
+    },
+    "fy2014": {
+    	"amount": 2.4,
+    	"netOrGross": "Net"
+    },
+    "fy2015": {
+    	"amount": 13,
+    	"netOrGross": "Net"
+    },
+    "fy2016": {
+    	"amount": 26.5,
+    	"netOrGross": "Net"
+    },
+    "fy2017": {
+    	"amount": 27.9,
+    	"netOrGross": "Net"
+    }
+
+
+},
+  {
+    "strategyID": 6,
+    "strategyTitle": "Microsoft Office 365 for DOS",
+    "decisionDate": "8/31/2017",
+    "ombInitiative": "Digital Services",
+    "relatedUIIs": "",
+    "useOfSavingsAvoidance": "",
+    "amountType": "Cost-Savings",
+    "fy2012": {
+    	"amount": 0.0,
+    	"netOrGross": "Net"
+    },
+    "fy2013": {
+    	"amount": 0.0,
+    	"netOrGross": "Net"
+    },
+    "fy2014": {
+    	"amount": 0.0,
+    	"netOrGross": "Net"
+    },
+    "fy2015": {
+    	"amount": 0.0,
+    	"netOrGross": "Net"
+    },
+    "fy2016": {
+    	"amount": 108.5,
+    	"netOrGross": "Net"
+    },
+    "fy2017": {
+    	"amount": 11.6,
+    	"netOrGross": "Net"   
+ }
+  }]
+}

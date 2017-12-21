@@ -1,0 +1,753 @@
+{
+    "strategies": [
+        {
+            "strategyId": 1,
+            "strategyTitle": "Enterprise IT -Email as a Service (EaaS)",
+            "Concat": "Enterprise IT -Email as a Service DHS",
+            "decisionDate": "10/01/2009",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000000591"],
+            "fy2012": {
+                "amount": 6.74,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 6.88,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 18.97,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 4.94,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0.6735,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 4.3772,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 2,
+            "strategyTitle": "Enterprise IT - WorkPlace as a Service",
+            "Concat": "Enterprise IT - WorkPlace as a Service DHS",
+            "decisionDate": "10/01/2010",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 39.13,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 22.71,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 4.47,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 7.53,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 7.8624,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.1374,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 3,
+            "strategyTitle": "Enterprise License Agreements (ELA's)",
+            "Concat": "Enterprise License Agreements DHS",
+            "decisionDate": "09/01/2010",
+            "ombInitiative": "PortfolioStat",
+            "useOfSavingsAvoidance": "N/A",
+            "amountType": "Cost-Avoidance",
+            "relatedUIIs": ["024-000000594"],
+            "fy2012": {
+                "amount": 125.33,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 82.5,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 4,
+            "strategyTitle": "Wireless Consolidation",
+            "Concat": "Wireless Consolidation DHS",
+            "decisionDate": "05/01/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 17.41,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 29.15,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 22.04,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 12.05,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 61.7032,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.8860,
+                "netOrGross": "Net"
+            }
+        }, 		
+        {
+            "strategyId": 5,
+            "strategyTitle": "Data Center Consolidation",
+            "Concat": "Data Center Consolidation DHS",
+            "decisionDate": "10/01/2006",
+            "ombInitiative": "Data Center",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000000594"],
+            "fy2012": {
+                "amount": 43.19,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 93.11,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 58.38,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 53.68,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 106.5077,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 5.7125,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 6,
+            "strategyTitle": "Development and Test as a Service (DTaaS) - TSA TTAC/TIM Program",
+            "Concat": "Development and Test as a Service (DTaaS) - TSA TTAC/TIM Program DHS",
+            "decisionDate": "10/01/2011",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "N/A",
+            "amountType": "Cost-Avoidance",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 12,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 7,
+            "strategyTitle": "Enterprise Content Delivery as a Service (ECDaaS)",
+            "Concat": "Enterprise Content Delivery as a Service DHS",
+            "decisionDate": "08/01/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 5.84,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0.07,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 1.68,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0.03,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.1420,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 8,
+            "strategyTitle": "SharePoint as a Service (SPTaaS)",
+            "Concat": "SharePoint as a Service DHS",
+            "decisionDate": "11/01/2011",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 3.43,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 9.52,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 1.29,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0.5631,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.8876,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 9,
+            "strategyTitle": "GeoSpatial Consolidation",
+            "Concat": "GeoSpatial Consolidation DHS",
+            "decisionDate": "10/01/2009",
+            "ombInitiative": "Other",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Both",
+            "relatedUIIs": ["024-000000551"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 17,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 10,
+            "strategyTitle": "Project Server/Project as a Service",
+            "Concat": "Project Server/Project as a Service DHS",
+            "decisionDate": "10/01/2010",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 0.79,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 1.52,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 2.08,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 6.99,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0.5520,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.2708,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 11,
+            "strategyTitle": "Case and Relationship Management as a Service",
+            "Concat": "Case and Relationship Management as a Service DHS",
+            "decisionDate": "10/01/2011",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 2.39,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0.82,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 38.38,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0.95,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 1.6690,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.0810,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 12,
+            "strategyTitle": "Web Content Management as a Service",
+            "Concat": "Web Content Management as a Service DHS",
+            "decisionDate": "10/01/2010",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 3.06,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 1.68,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 1.68,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0.48,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.1006,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 13,
+            "strategyTitle": "Agency-Led TechStat Session",
+            "Concat": "Agency-Led TechStat Session DHS",
+            "decisionDate": "06/01/2012",
+            "ombInitiative": "PortfolioStat",
+            "useOfSavingsAvoidance": "N/A",
+            "amountType": "Cost-Avoidance",
+            "relatedUIIs": ["024-000000661"],
+            "fy2012": {
+                "amount": 10.5,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 14,
+            "strategyTitle": "Enterprise IT - Networx",
+            "Concat": "Enterprise IT - Networx DHS",
+            "decisionDate": "10/01/2001",
+            "ombInitiative": "PortfolioStat",
+            "useOfSavingsAvoidance": "N/A",
+            "amountType": "Cost-Avoidance",
+            "relatedUIIs": ["024-000000591"],
+            "fy2012": {
+                "amount": 85.6,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 15,
+            "strategyTitle": "Data Communications",
+            "Concat": "Data Communications DHS",
+            "decisionDate": "08/30/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001070"],
+            "fy2012": {
+                "amount": 3.25,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 37.87,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 35.23,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 10.59,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 21.7639,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 2.5030,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 16,
+            "strategyTitle": "Voice Communications",
+            "Concat": "Voice Communications DHS",
+            "decisionDate": "08/31/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001070"],
+            "fy2012": {
+                "amount": 13.35,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 12.54,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 24.80,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 9.92,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 3.0095,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 3.8088,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 17,
+            "strategyTitle": "Site Services",
+            "Concat": "Site Services DHS",
+            "decisionDate": "08/31/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001070"],
+            "fy2012": {
+                "amount": 0.08,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 81.06,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 109.45,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 11.26,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 7.7609,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 27.0023,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 18,
+            "strategyTitle": "Production/Production as a Service",
+            "Concat": "Production/Production as a Service DHS",
+            "decisionDate": "10/01/2009",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0.45,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 3.90,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 5.9036,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 19,
+            "strategyTitle": "ICAM/Authentication as a Service",
+            "Concat": "ICAM/Authentication as a Service DHS",
+            "decisionDate": "08/31/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000000030"],
+            "fy2012": {
+                "amount": 0.55,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 6.92,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0.82,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 1.60,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 20,
+            "strategyTitle": "Commodity IT Program Management",
+            "Concat": "Commodity IT Program Management DHS",
+            "decisionDate": "08/31/2012",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000000661"],
+            "fy2012": {
+                "amount": 0.29,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 9.08,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 21.42,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 9.07,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 1.2080,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 6.1445,
+                "netOrGross": "Net"
+            }
+         },
+         {
+            "strategyId": 21,
+            "strategyTitle": "Development and Test as a Service (DTaaS)",
+            "Concat": "Development and Test as a Service (DTaaS) DHS",
+            "decisionDate": "10/01/2011",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0.05,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0.37,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 1.9370,
+                "netOrGross": "Net"
+            }
+         },
+         {
+            "strategyId": 22,
+            "strategyTitle": "Business Intelligence as a Service (BIaaS)",
+            "Concat": "Business Intelligence as a Service (BIaaS) DHS",
+            "decisionDate": "10/01/2011",
+            "ombInitiative": "Commodity IT",
+            "useOfSavingsAvoidance": "See DHS IRM Strategic Plan",
+            "amountType": "Cost-Savings",
+            "relatedUIIs": ["024-000001075"],
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 7.11,
+                "netOrGross": "Net"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2017": {
+                "amount": 0.0090,
+                "netOrGross": "Net"
+            }
+
+        }
+    ]
+}

@@ -1,0 +1,4335 @@
+{
+  "strategies": [
+    {
+      "strategyId": 10,
+      "strategyTitle": "ATF Fully Mobile Workforce Implementation Devices and Telecomm",
+      "decisionDate": "06/01/2013",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "The use of cost of avoidance from this savings initiative will assist ATF to provide critical services during the sequestration period and beyond.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000001655"
+      ],
+      "fy2012": {
+        "amount": 0.61,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.29,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.75,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 13,
+      "strategyTitle": "ATF Service Delivery Implementation",
+      "decisionDate": "06/01/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "The use of cost of avoidance from this savings initiative will enable ATF in providing critical services during the out years. It is not possible at this time to reflect what cost savings we may experience as an ROI for services and equipment that were so drastically cut. We expect that future figures may show an increase in the overall budget due to the baseline created by the sequestration actions.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003116"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 5,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 4.02,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 1.3,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 7,
+      "strategyTitle": "BOP Cisco Maintenance Agreement",
+      "decisionDate": "04/11/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings will be used towards expansion of the VOIP evaluation presently underway within BOP",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 1.21,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 2.467,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.85,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 19,
+      "strategyTitle": "JMD Consolidation of Land Mobile Radio Systems / Contracts",
+      "decisionDate": "12/01/2010",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Savings used to continue nationwide LMR deployment",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "11-00000350",
+        " 011-00000350",
+        " 011-00000350"
+      ],
+      "fy2012": {
+        "amount": 1.4,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 16,
+      "strategyTitle": "DEA - Mainframe (formerly M204)",
+      "decisionDate": "09/28/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Any cost savings generated from this initiative will be reprioritized based on DEA's zero based budget process and be used to meet DEA's mission and goals.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000002088"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 3.343,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 9.2,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.11,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 13,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 1,
+      "strategyTitle": "DEA Printer Management",
+      "decisionDate": "07/01/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Any cost avoidance generated from this initiative will offset cuts to DEA's IT program. Estimate using avoidance for additional procurement and rollout (25% in FY14, 25% in FY15, etc).",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000002901"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.25,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.25,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 20,
+      "strategyTitle": "JMD DOJ Federation Service",
+      "decisionDate": "01/12/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "The savings/avoidance is achieved through reduced helpdesk support in administering user identities within each application that utilizes the service for user authentication, and as other identity providers and applications continue to be on-boarded.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.35,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 22,
+      "strategyTitle": "JMD Email Consolidation",
+      "decisionDate": "09/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings used to cover start-up costs",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 2.7,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 2,
+      "strategyTitle": "ENRD Unified Virtualization Architecture including Offsite COOP",
+      "decisionDate": "07/01/2013",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "The Flexpod implementation and installation will continue into FY 15. We expect once the network infrastructure is in place, cost avoidance/cost saving options will be available.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.02,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.02,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 23,
+      "strategyTitle": "JMD Enterprise Mobility Infrastructure",
+      "decisionDate": "08/01/2012",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Reinvested in mobility commodity",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.9,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.7,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 24,
+      "strategyTitle": "JMD Enterprise Personnel Security System (JSTARS)",
+      "decisionDate": "05/01/2009",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Component organizations reapplied savings/avoidance internally to their operating budgets.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-00003167"
+      ],
+      "fy2012": {
+        "amount": 8.6,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.92,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 25,
+      "strategyTitle": "USA Efficiencies - Toners and EVoIP",
+      "decisionDate": "10/01/2007",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Provided districts with needed funds for IT upgrades/refreshes; savings in districts allowed increased funding for mission related needs",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 2.05,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 2.17,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 4.2,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 4,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 26,
+      "strategyTitle": "USTP Consolidation and Centralization",
+      "decisionDate": "05/01/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Cost avoidance is achieved through absence of hardware purchases during lifecycle refresh of existing hardware as well as instantiation of virtual machines to take on new roles within the USTP enterprise. FY14Q4 Hardware refresh utilized $180k of cost avoidance for virtual host hardware refresh.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0.44,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.255,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.516,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.036,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.14823,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.36,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 3,
+      "strategyTitle": "FBI IT Asset Management Program",
+      "decisionDate": "10/01/2011",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "A portion of the initial cost avoidance and savings was reinvested into the ITAM program to facilitate further contract centralization and consolidation. Ongoing cost avoidance is realized by the procuring organization and is being leveraged as incentive to encourage FBI divisions to take advantage of ELAs.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 19.5,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 16.3,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 5.337,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 3.36,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 2.985,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 3.145,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 27,
+      "strategyTitle": "JMD Mobility - Virtual Private Network",
+      "decisionDate": "06/01/2012",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Reinvested in mobility commodity",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.05,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.6,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 29,
+      "strategyTitle": "FBI Network Delivery Order for CISCO Services",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Re-invested in strategic sourcing resources to support other strategic sourcing initiatives",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000002906"
+      ],
+      "fy2012": {
+        "amount": 0.21,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 7.8,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 2.46,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 2.57,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 2.67,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 4,
+      "strategyTitle": "OIG Helpdesk",
+      "decisionDate": "04/01/2013",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Sequestration Cost Measure",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.25,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.2,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 5,
+      "strategyTitle": "OIG SharePoint Contract",
+      "decisionDate": "09/24/2012",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Other IT Initiatives",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0.1,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 30,
+      "strategyTitle": "OJP Voice Over Internet Protocol (VoIP) Conversions",
+      "decisionDate": "11/17/2010",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Using reduction to reinvest in VoIP for modernized phone system",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003044"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.838,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.9099999999999999,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.852888,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 6,
+      "strategyTitle": "JMD OSS Reductions and Efficiencies",
+      "decisionDate": "05/15/2013",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 1.16,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 33,
+      "strategyTitle": "JMD Telecommunications Savings Initiatives",
+      "decisionDate": "09/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Re-invested to cover increased bandwidth and reduced budget",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0.4,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 3.6,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.3,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 36,
+      "strategyTitle": "JMD UFMS Program Support Reductions",
+      "decisionDate": "05/01/2013",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Apply savings to sequester budget cuts.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 7,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 2,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 35,
+      "strategyTitle": "JMD Wireless Contract Consolidation",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Re-invested savings into commodity purchases",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 4.2,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 0.5,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 18,
+      "strategyTitle": "JMD Consolidation of Classified Processing Services",
+      "decisionDate": "08/01/2012",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Re-invested in the data center commodity.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 2.1,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.6,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 8,
+      "strategyTitle": "DOJ Data Center Transformation Initiative (DCTI)",
+      "decisionDate": "03/05/2010",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Savings used to cover other IT expenses and/or mission support.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 2.747,
+        "netOrGross": "Gross"
+      },
+      "fy2013": {
+        "amount": 3.7350000000000003,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 3.995,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 8.595,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 9.088,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 9.940476,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 31,
+      "strategyTitle": "JMD Security Services Consolidation Cost Savings",
+      "decisionDate": "08/21/2014",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Re-invested in commodity for new technologies to better detect advanced persistent threats and the use of zero day exploits",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003471"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 1.396,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 32,
+      "strategyTitle": "JMD Strategic Sourcing:  Contract Escalator Reductions / IT Procurement Process Improvements",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Re-invested funds in IT transformation projects",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 3.221,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.6,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 34,
+      "strategyTitle": "USMS Web Time and Attendance Cloud Solution",
+      "decisionDate": "07/01/2010",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Key cost savings results in reduction in data entry time of T&A Clerks and reduction in time financial services division spent performing errors post submission.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "11-00000336"
+      ],
+      "fy2012": {
+        "amount": 0.285,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.285,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 11,
+      "strategyTitle": "ATR Utilization of DOJ Video Teleconferencing",
+      "decisionDate": "02/20/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Savings are used to support costs associated with litigation of Division matters including salary costs as the Division works to stabilize its staffing levels.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.01,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 38,
+      "strategyTitle": "ATR Publication/Printing Reductions",
+      "decisionDate": "02/20/2014",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings are used to support costs associated with litigation of Division matters including salary costs as the Division works to stabilize its staffing levels.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 2,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 21,
+      "strategyTitle": "JMD eCPIC / OCIO Dashboard Integration",
+      "decisionDate": "02/27/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.084,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.084,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.084,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 45,
+      "strategyTitle": "JMD Oracle Procurement",
+      "decisionDate": "04/14/2014",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 1.9,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 44,
+      "strategyTitle": "JMD Learning and Development Efficiencies",
+      "decisionDate": "01/01/2009",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested back into the program",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0.7,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 1.77,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 40,
+      "strategyTitle": "JMD Eliminate JABS Help Desk",
+      "decisionDate": "10/01/2013",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The savings will be used to maintain core system capabilities despite recent budget reductions.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.22,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.3,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 48,
+      "strategyTitle": "JMD Use of On-Line Booking for Travel Arrangements",
+      "decisionDate": "01/01/2009",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Reinvested back into program",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 2.625,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 2.068,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 2.474,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 3.48,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 46,
+      "strategyTitle": "JMD Realign the Wireless Management Office (WMO)",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Reinvested back into program",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.659,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 47,
+      "strategyTitle": "JMD Reduce Unnecessary Publications Acquisitions",
+      "decisionDate": "01/01/2013",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Reinvested back into the program",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.207,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.57,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 39,
+      "strategyTitle": "JMD Alternative End Points Dashboard",
+      "decisionDate": "10/01/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested back into program",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.23,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.535,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 41,
+      "strategyTitle": "ENRD JCON Refresh",
+      "decisionDate": "09/01/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Purchasing new printers (114) this FY(14).",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.664,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 42,
+      "strategyTitle": "ENRD Mobile Device Transition",
+      "decisionDate": "10/01/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings were used to assist in the acquisition of 100 Dell laptops at the end of fiscal year 2014.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.014,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 52,
+      "strategyTitle": "USMS Help Desk Contract Renegotiation",
+      "decisionDate": "12/01/2012",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "USMS ITD has a shortfall in the base budget. The savings will be used to reduce the shortfall.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003164"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 2.234,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 1.118,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 51,
+      "strategyTitle": "USMS Recompete Infrastructure Service Contract",
+      "decisionDate": "08/01/2013",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "USMS ITD has a shortfall in the base budget. The savings will be used to reduce the shortfall.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003171"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.5,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.5,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 53,
+      "strategyTitle": "USMS Telecom Analysis",
+      "decisionDate": "08/01/2013",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "USMS ITD has a shortfall in the base budget. The savings will be used to reduce the shortfall.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003174"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.89,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.246,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.258,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 50,
+      "strategyTitle": "JMD Treasury Address Request (TAR) Program",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested into program",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 1.934,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 49,
+      "strategyTitle": "JMD Refer Eligible Civil Debts from Private Counsel Offices to the Treasury Offset Program",
+      "decisionDate": "10/01/2013",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Reinvested back into program",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 9.576,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 14,
+      "strategyTitle": "ATF Unified Communications/VOIP",
+      "decisionDate": "09/01/2009",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Saved funds used to upgrade additional field offices to VoIP services, and assist ATF to provide critical services during the sequestration period and beyond.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000001655"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 1.09,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.13,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.026,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 43,
+      "strategyTitle": "JMD Exception-Based Time and Attendance (T&A) Reporting",
+      "decisionDate": "10/01/2010",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Reinvested back into program.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 2.182,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.14,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 10.843,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.76,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 54,
+      "strategyTitle": "JMD WASP Line Reduction",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "As direct savings to Components, JMD does not have control to reallocate the savings.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.046,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.181,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 56,
+      "strategyTitle": "JMD JUTNet AT&T Pricing Reductions",
+      "decisionDate": "05/01/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The savings is passed through directly to Components purchasing JUTNet services.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 1.683,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 2.525,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 3.86,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 6.36,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 55,
+      "strategyTitle": "CRT IT Hardware Platform Consolidation",
+      "decisionDate": "07/01/2013",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000002047"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.222,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 0.022,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.044,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.22,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 15,
+      "strategyTitle": "USMS Recompete IT Security Services Contract",
+      "decisionDate": "08/18/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Augment staff with additional security resources and procure some additional security technologies to support USMS mobility program.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.66,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 62,
+      "strategyTitle": "JMD VoIP Phone Volume Discounts",
+      "decisionDate": "07/24/2014",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Components determine use / repurposing of funds as a result of cost avoidance.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.22,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 61,
+      "strategyTitle": "USNCB Email Consolidation ",
+      "decisionDate": "09/01/2012",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003506"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.12,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 60,
+      "strategyTitle": "DEA Thin Client Deployment",
+      "decisionDate": "01/01/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings is achieved by the reduction of workstation cost which will be achieved over time.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000002902 "
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.4,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.5,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.3,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 57,
+      "strategyTitle": "DEA Classified Network Infrastructure Consolidation",
+      "decisionDate": "11/05/2014",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Other - savings will be used towards advancing network communications",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000002902 "
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.2,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.18,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 58,
+      "strategyTitle": "DEA Enhance and Leverage EPIC System Portal",
+      "decisionDate": "07/02/2014",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Reinvestment of savings and avoidance will be used by increased labor hours for developer, and O&M activities.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003162 "
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.625,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 2.5,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 59,
+      "strategyTitle": "DEA Enhance Data Broker Interface with HIDTA Systems",
+      "decisionDate": "07/03/2014",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Reinvestment of savings will be used by increased labor hours for HIDTA support activities.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003162 "
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.4,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 63,
+      "strategyTitle": "ATR Tunney Comments Website Posting Initiative",
+      "decisionDate": "03/10/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Savings are used to support costs associated with litigation of Division matters including salary costs as the Division works to stabilize its staffing levels.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.0752,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 12,
+      "strategyTitle": "OIG Servers",
+      "decisionDate": "10/01/2014",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Other initiatives",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.88,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 64,
+      "strategyTitle": "JMD Continuous Diagnostics and Mitigation (CDM)",
+      "decisionDate": "08/12/2013",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 6.26,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 1.52,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1.52,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 71,
+      "strategyTitle": "DEA Identity Credential Access Management (ICAM)",
+      "decisionDate": "07/03/2014",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Strengthened EPIC's security posture which resulted in EPIC now being rated at the top amongst all 40 DOJ program.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 3,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 66,
+      "strategyTitle": "DEA Business Intelligence Capability",
+      "decisionDate": "07/03/2014",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Reinvestment of savings will be used by the LE partners to further support mission activities.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 4.2,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 3.78,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 65,
+      "strategyTitle": "DEA Implemented Geospatial Intelligence and Geocoding Capabilities",
+      "decisionDate": "07/03/2014",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Reinvestment of savings will be used by the LE partners to further support mission activities",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 1.8,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 72,
+      "strategyTitle": "JMD Justice Enterprise Department Integrated Reporting (JEDI)",
+      "decisionDate": "10/01/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The large projection in FY16 includes a onetime cost avoidance projection (and has been realized through the first two quarters of FY16) related to SBU data processing services. ",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 5.960000000000001,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.722,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 68,
+      "strategyTitle": "JMD Reorganization and Consolidation of JMD Finance Staff",
+      "decisionDate": "10/01/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Administrative efficiencies.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.85,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1.52,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 67,
+      "strategyTitle": "FBI Digital Collection",
+      "decisionDate": "09/01/2012",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The related IT Investment Summary (Exh 53) investment was adjusted to reflect this cost avoidance.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000002503"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0.09,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.45,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.87,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1.26,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.37,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 73,
+      "strategyTitle": "OIG Programming Contractor Savings",
+      "decisionDate": "08/01/2015",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Other initiatives",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.17,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 74,
+      "strategyTitle": "JMD UFMS Site License Conversion",
+      "decisionDate": "09/03/2015",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Redistribution to other JMD initiatives",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.136,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.136,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 75,
+      "strategyTitle": "JMD Empower HR",
+      "decisionDate": "09/30/2015",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Redistribution to other JMD initiatives",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.296,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.3248,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 69,
+      "strategyTitle": "JMD Commodity IT Consolidation",
+      "decisionDate": "07/01/2012",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Savings used for mission related needs",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 8.2,
+        "netOrGross": "Gross"
+      },
+      "fy2014": {
+        "amount": 4.2,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 70,
+      "strategyTitle": "JMD Telecommunications Consolidation",
+      "decisionDate": "10/01/2012",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Mission related needs",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 4.138,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 76,
+      "strategyTitle": "USMS Microsoft True-Up",
+      "decisionDate": "04/11/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Used for other programs",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.013,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 82,
+      "strategyTitle": "ATF Office 365 Email as a Service",
+      "decisionDate": "05/02/2016",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "Redirected to cloud services support and implementation.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        "011-000003116"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 1,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 1,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 1,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1.465,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 81,
+      "strategyTitle": "ATF Managed Print",
+      "decisionDate": "09/01/2015",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "FTE were moved to different projects/ assignments.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003116"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.322,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 84,
+      "strategyTitle": "ATF Transition to Agile",
+      "decisionDate": "10/14/2016",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The funds will be invested into improving our legacy applications",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000001705"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.6,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.5,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0.6,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 77,
+      "strategyTitle": "ATF Bandwidth Increase",
+      "decisionDate": "05/02/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Upgrade of legacy connections.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003498"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 3,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 83,
+      "strategyTitle": "CIV Point to Point Wireless Data Network",
+      "decisionDate": "03/14/2014",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested it in other cost savings.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.08,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0.08,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.149,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 1.2,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0.3,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 79,
+      "strategyTitle": "CRT Disaster Recovery System Refresh",
+      "decisionDate": "09/30/2015",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Reinvested savings/avoidance back into the program.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.08,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.1,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.12,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 78,
+      "strategyTitle": "CIV Core Network Switch Procurement",
+      "decisionDate": "06/29/2015",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested it in other cost savings.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.576,
+        "netOrGross": "Gross"
+      },
+      "fy2016": {
+        "amount": 0.053,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 85,
+      "strategyTitle": "JMD IT Best Practices and Benchmarking Services Cost Reduction",
+      "decisionDate": "01/29/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Cost savings were reallocated to other OCIO investment priorities",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003282"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.102,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 86,
+      "strategyTitle": "JMD Advanced Persistent Threat - Database/Application Scanning Software",
+      "decisionDate": "06/30/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "The cost savings realized by acquiring this tool provided the ability to reinvest in the rapid deployment of this product, and enhance the Department's security posture and toolset.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 87,
+      "strategyTitle": "JMD Identity, Credential, and Access Management - Digital Certificate Management Tool",
+      "decisionDate": "06/30/2016",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The cost savings realized by acquiring this tool provided the ability to reinvest in a rapid deployment of this product, and enhance the Department's security posture and toolset.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.75,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.5625,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 88,
+      "strategyTitle": "JMD Advanced Persistent Threat - Intrusion Prevention System",
+      "decisionDate": "01/30/2015",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "On an annualized basis, the Advanced Persistent Threat - Intrusion Prevention System prevents 55K e-mail events and approximately 900 web events from occurring on the Department's networks that affords the Department a strengthened security posture and the ability to focus efforts towards more imminent threats and bad actors.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 2.375,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 9.52,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 4.76,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 89,
+      "strategyTitle": "JMD Advanced Persistent Threat - Data Loss Prevention Project",
+      "decisionDate": "07/01/2015",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The cost avoidance provided by using this tool provides the necessary data loss protection that affords the Department a strengthened security posture and the ability to focus efforts towards more imminent threats and bad actors.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 4.83,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 10,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 5,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 90,
+      "strategyTitle": "JMD Microsoft Enterprise Agreement",
+      "decisionDate": "06/30/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Components are now able to use money that was originally going to be spent on licenses for any other project that requires it.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1.72,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 2.4000000000000004,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 91,
+      "strategyTitle": "FBI Next Generation Identification",
+      "decisionDate": "09/30/2014",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "The savings was utilized to cover other unfunded CJIS requirements. ",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-000003457"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 25,
+        "netOrGross": "Gross"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 93,
+      "strategyTitle": "TAX Transition to JUTNET Ethernet Circuits",
+      "decisionDate": "05/15/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings will be reallocated to other IT services.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.06,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 92,
+      "strategyTitle": "TAX O365 Migration",
+      "decisionDate": "05/15/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Savings will be reallocated to other IT services.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.1,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 94,
+      "strategyTitle": "TAX Transition to Public Cloud Services",
+      "decisionDate": "05/15/2016",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Savings will be reallocated to other IT services.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.02,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 95,
+      "strategyTitle": "ATR Desktop and Laptop Refresh",
+      "decisionDate": "08/19/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "The original quote for laptops and desktops was $3.4M. The BPA actual cost is $2.4M. Savings of $1M",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 1,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 96,
+      "strategyTitle": "JMD Enterprise Personnel Security System / ATF Investigative Module (JSTARS/AIM)",
+      "decisionDate": "06/29/2016",
+      "ombInitiative": "PortfolioStat",
+      "useOfSavingsAvoidance": "ATF is able to reapply the cost savings to their operating budget.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.193,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 97,
+      "strategyTitle": "USTP \"One Device\" (Single computing device for users)",
+      "decisionDate": "08/04/2014",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Reinvested into other cost savings.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0.08,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0.83,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.15000000000000002,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 99,
+      "strategyTitle": "CRM SQL Databases",
+      "decisionDate": "04/13/2016",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "Funds used to purchase Networking/VTC hardware.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.069,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 100,
+      "strategyTitle": "JMD Azure Express Route - Email and Collaboration Services",
+      "decisionDate": "05/02/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "The savings/avoidance can be applied to other IT initiatives.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 1.8,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 107,
+      "strategyTitle": "JMD Rockville Data Center Migration to Azure",
+      "decisionDate": "12/30/2016",
+      "ombInitiative": "Data Center",
+      "useOfSavingsAvoidance": "The savings/avoidance can be applied to other IT initiatives.",
+      "amountType": "Both",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 2.79,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 106,
+      "strategyTitle": "OJP LAN Wireless",
+      "decisionDate": "09/28/2016",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Using reduction to reinvest in modernized IT Security",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        "011-0000030436"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.88,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 108,
+      "strategyTitle": "ENRD Standard Desktop Replacement",
+      "decisionDate": "06/01/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "2-in-1 Tablet Acquisition",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.61,
+        "netOrGross": "Gross"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 105,
+      "strategyTitle": "ENRD Tablet Acquisition",
+      "decisionDate": "06/01/2016",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "2-in-1 Tablet Acquisition",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 2.189,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 104,
+      "strategyTitle": "DEA National Virtual Pointer System (NVPS) Modernization",
+      "decisionDate": "01/01/2016",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The National Virtual Pointer System (NVPS) is an automated system that connects target deconfliction systems which allows participating federal, state, or local law enforcement agencies access to agency target information through a single point of entry.  This initiative has two cost saving components: 1) eliminate the RISS support costs associated with managing the NVPS hub, and 2) modernize the integration between NVPS and NDPIX to eliminate the DOJ mainframe file transfer charges.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.3,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.3,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 102,
+      "strategyTitle": "DEA Cyber De-confliction",
+      "decisionDate": "06/01/2016",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The Cyber De-confliction initiative extends data sharing to participating partner de-confliction systems, by adding support for cyber data elements. The costs savings are provided by internally developed solutions, which are estimated to save approximately $300K per year.",
+      "amountType": "Cost-Savings",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0.3,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.3,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 103,
+      "strategyTitle": "DEA Drug Overdose Tracking Initiative",
+      "decisionDate": "09/01/2016",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "The Drug Overdose Tracking Initiative will provide significant cost avoidance by leveraging internal resources to provide a web site where information can be collected and tracked.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.25,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 111,
+      "strategyTitle": "JMD OCIO Grid Deployment",
+      "decisionDate": "11/24/2015",
+      "ombInitiative": "Digital Services",
+      "useOfSavingsAvoidance": "Cryptologic support of law enforcement activity",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003431"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.028,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 109,
+      "strategyTitle": "JMD OCIO Automated Litigation Support Services",
+      "decisionDate": "10/29/2014",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "Costs avoided through the ALS Services program will be used to fund the identification and evaluation of new technologies so DOJ can maintain its currency with the ever-evolving technology for social media, corporate communications, and other litigation data sources. It may also be used to increase DOJ's litigation capacity in terms of the number of cases litigated, the amount of data that can be processed, and the number of attorneys/case teams engaged.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 7.2,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 113,
+      "strategyTitle": "JMD Non-OEM HP Toner",
+      "decisionDate": "04/17/2017",
+      "ombInitiative": "Commodity IT",
+      "useOfSavingsAvoidance": "Purchase of additional supplies.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.125,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 121,
+      "strategyTitle": "USMS PMO Support Transition",
+      "decisionDate": "08/01/2017",
+      "ombInitiative": "Other",
+      "useOfSavingsAvoidance": "USMS ITD will reinvest the cost avoidance funding into preliminary DevOps support tools and services.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003362"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.425,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0.07,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 120,
+      "strategyTitle": "USMS Mission Modernization Software Licensing Cost Avoidance",
+      "decisionDate": "06/06/2017",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Cost avoidance was applied to implementation services for the Capture program.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        "011-000003618"
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 4.251,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 119,
+      "strategyTitle": "ENRD Microsoft 0365 Migration",
+      "decisionDate": "08/01/2017",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "The funds were reallocated to increase advisory assistance capabilities on our\nMicrosoft Premier Contract prior to end of FY 17.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.012,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 118,
+      "strategyTitle": "ENRD HP 2-1 Stand Alone Tablet Migration",
+      "decisionDate": "10/06/2017",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "The funds were reallocated to increase advisory assistance capabilities on our\nMicrosoft Premier Contract prior to end of FY 17.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2018": {
+        "amount": 0.014,
+        "netOrGross": "Gross"
+      }
+    },
+    {
+      "strategyId": 114,
+      "strategyTitle": "JMD CDM Credential Management (CREDMGMT)",
+      "decisionDate": "10/17/2016",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "Purchase and maintenance of the licenses covered by DHS for the first 2 years of the CREDMGMT project.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.659,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 116,
+      "strategyTitle": "JMD CSS - CDM Task Order 2",
+      "decisionDate": "10/02/2015",
+      "ombInitiative": "Software License Management",
+      "useOfSavingsAvoidance": "This is a cost avoidance derived from CDM buying licenses.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 8.373,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    },
+    {
+      "strategyId": 117,
+      "strategyTitle": "DOJ Logging (aaS)",
+      "decisionDate": "03/31/2017",
+      "ombInitiative": "Digital Services",
+      "useOfSavingsAvoidance": "Follow DOJ Components utilizing DOJ Logging (aaS): ATF, AFMS, CIV, CRM, USMS, USTP. Estimated savings for each Component is $460k ($10k for licenses, $350k for licenses, $100k for infrastructure) costs per year.",
+      "amountType": "Cost-Avoidance",
+      "relatedUIIs": [
+        null
+      ],
+      "fy2012": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2013": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2014": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2015": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2016": {
+        "amount": 0,
+        "netOrGross": "Net"
+      },
+      "fy2017": {
+        "amount": 0.69,
+        "netOrGross": "Gross"
+      },
+      "fy2018": {
+        "amount": 0,
+        "netOrGross": "Net"
+      }
+    }
+  ]
+}

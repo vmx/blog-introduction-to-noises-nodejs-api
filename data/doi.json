@@ -1,0 +1,2944 @@
+{
+	"strategies": [
+
+		{
+			"strategyId": 1,
+			"strategyTitle": "Budget Reductions due to Sequestration",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Funds were cut as part of sequestration. There was no reinvestment.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 8.963,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 9.828,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 9.678,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 9.524,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},{
+			"strategyId": 4,
+			"strategyTitle": "Program and Budget System Decommissioning",
+			"decisionDate": "06/01/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance to be used to reinvest in an improved budget system",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000295",
+				"010-000000282"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.76578,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 5,
+			"strategyTitle": "Utilize Enterprise-wide Software License Agreements",
+			"decisionDate": "12/31/2013",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Avoidance to be reinvested in mission SCADA improvements",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000293"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.011,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 6,
+			"strategyTitle": "Preparation for Moving to Enterprise Records and Document Management System",
+			"decisionDate": "12/31/2013",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Reinvested into the Working Capital Fund for records management improvements.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000298"
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.073,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 7,
+			"strategyTitle": "Asset Inventory and Fleet Utilization Applications Decommissioning",
+			"decisionDate": "04/28/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The avoidance returned to program budget within the Bureau of Reclamation.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000299"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.1,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.2,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},{
+			"strategyId": 9,
+			"strategyTitle": "Travel Reductions",
+			"decisionDate": "12/31/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Goes back into the program budget to serve mission within the Bureau of Reclamation.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000299"
+			],
+			"fy2012": {
+				"amount": 0.0648,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.07,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 10,
+			"strategyTitle": "Denver Data Center IT Contract / Support Services",
+			"decisionDate": "12/31/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Goes back into the program budget to serve mission within the Bureau of Reclamation.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000299"
+			],
+
+			"fy2012": {
+				"amount": 2.7,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.5,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},  {
+			"strategyId": 12,
+			"strategyTitle": "Commodity Telecommunications - Networx",
+			"decisionDate": "12/29/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance directed towards programs and in some cases, increased bandwidth has been purchased.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000357"
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 7.3,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 7.3,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 13,
+			"strategyTitle": "Circuit Consolidation",
+			"decisionDate": "10/27/2011",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Avoidance directed towards programs and in some cases, increased bandwidth has been purchased.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000357"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 14,
+			"strategyTitle": "Cloud Email and Collaboration Services (CECS)",
+			"decisionDate": "04/30/2012",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000330"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 4.52,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 4.52,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 4.52,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 15,
+			"strategyTitle": "Enterprise eArchive System (EES) part of eERDMS",
+			"decisionDate": "04/30/2012",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000330"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 2.9,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 3.2,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 16,
+			"strategyTitle": "Financial and Business Management System: Deployments 7 & 8",
+			"decisionDate": "04/28/2011",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000316"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.028,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.988,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 17,
+			"strategyTitle": "Enterprise Forms System (EFS)",
+			"decisionDate": "04/30/2012",
+			"ombInitiative": "Commodity IT",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000312 "
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.3,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 2.3,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 18,
+			"strategyTitle": "Software Purchase Consolidation",
+			"decisionDate": "09/01/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reabsorbed into the general operating funds of respective program offices.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.5,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.5,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 2,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 19,
+			"strategyTitle": "Statistical Analysis Software (SAS) Savings",
+			"decisionDate": "01/01/2009",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Reinvested in the General Office Funds for the participating programs and regions.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.4,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.4,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.4,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.424,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.424,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 20,
+			"strategyTitle": "Funds Reinvestment - Civil War Soldiers and Sailors System",
+			"decisionDate": "09/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Integrated within NPS.gov",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000489"
+			],
+
+			"fy2012": {
+				"amount": 0.19,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.19,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.19,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 21,
+			"strategyTitle": "Concessions Database Management System (CDMS) Decommissioning",
+			"decisionDate": "09/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Decommissioning. Functions were moved to Commercial Services System.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000490"
+			],
+			"fy2012": {
+				"amount": 0.08,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.08,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.08,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 22,
+			"strategyTitle": "Fund Reinvestment - Integrated Resource Management Application",
+			"decisionDate": "09/01/2010",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "IRMA evolved out of the investment formally known as PRIDE, resulting in a comprehensive data model that is integrating information from multiple NPS NR data systems and sources. Additional costs avoidance expected when all slated NR systems have completed the migration to IRMA.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000570"
+			],
+			"fy2012": {
+				"amount": 0.4,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.4,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.4,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 23,
+			"strategyTitle": "Cultural Resources Historic Preservation Learning Portal Decommissioning",
+			"decisionDate": "08/05/2013",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The program decided to stop funding the application and re-allocate the funds to cover cuts in other program areas.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000493"
+			],
+
+			"fy2012": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 24,
+			"strategyTitle": "Renegotiated Fee Structure for Contractor Support",
+			"decisionDate": "03/17/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "This avoidance brought the budget into balance.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000934"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.5,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.8,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 1.19,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 1.19,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 29,
+			"strategyTitle": "Transfer Check and Statement Printing to the Department of Treasury",
+			"decisionDate": "01/01/2014",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "$161k of avoidance was reinvested back into the OST IT budget to address budget and resource shortfalls. The remaining $922k resulted in a budget reduction of this amount.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.01,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.35,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.35,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.35,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 30,
+			"strategyTitle": "Private Branch Exchange",
+			"decisionDate": "03/01/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reinvested into a mission area within the U.S. Geological Survey.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000001020"
+			],
+
+			"fy2012": {
+				"amount": 0.105,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.087,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.149,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.1,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.83216,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 31,
+			"strategyTitle": "Enterprise Software",
+			"decisionDate": "06/27/2013",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reinvested into a mission area within the U.S. Geological Survey.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000001013"
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.171,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.087,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 32,
+			"strategyTitle": "Enterprise Wireless LAN Blanket Purchase Agreement",
+			"decisionDate": "01/01/2013",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reinvested back to the Science Center.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.065,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.04,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 33,
+			"strategyTitle": "BIA Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within Indian Affairs.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.135885,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.321832,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.190324,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.077663,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 34,
+			"strategyTitle": "Bureau of Indian Affairs Renegotiated Contract Cost",
+			"decisionDate": "10/01/2013",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The cost avoidance was reabsorbed by the Bureau of Indian Education to fund education programs.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000083"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.752,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.752,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.752,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 35,
+			"strategyTitle": "BOR Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at program level within the Bureau of Reclamation.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.354146,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.431618,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.241368,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.153172,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.666975,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 36,
+			"strategyTitle": "FWS Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the Fish and Wildlife Service.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.093658,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.168271,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.196424,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.140056,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 37,
+			"strategyTitle": "Video Teleconferencing (VTC) Savings",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance has been reabsorbed into the general operating funds of respective program offices.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.1125,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.1875,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.185,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 38,
+			"strategyTitle": "NPS Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the National Parks Service.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.269044,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.032683,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.140556,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 39,
+			"strategyTitle": "USGS Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the U.S. Geological Survey.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 2.073236,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.799045,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 2.155418,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.239548,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 1.079284,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 40,
+			"strategyTitle": "BOEM/BSEE Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the Bureau of Ocean Energy Management and the Bureau of Safety and Environmental Enforcement.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.397067,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.406047,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.136483,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.314565,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.456966,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 41,
+			"strategyTitle": "BLM Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the Bureau of Land Management.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.348357,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 2.230875,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.883029,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.672042,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.185541,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 42,
+			"strategyTitle": "OS Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the Office of the Secretary.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.788158,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.55162,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.66742,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 2.762484,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 5.238019,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 43,
+			"strategyTitle": "OIG Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the Office of the Inspector General.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.499449,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.527702,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.238245,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.230703,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.310086,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 44,
+			"strategyTitle": "SOL Abolished Vacant IT Positions",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance realized at the program level within the Office of the Solicitor.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0.235927,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 45,
+			"strategyTitle": "NPS.gov Rebaseline",
+			"decisionDate": "12/19/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Funds were invested in various other IT and non-IT areas, including content development for communication of Centennial initiatives and other mission programs and transfer of personnel to mission functions. Program was not scaled to envisioned levels.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000554"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 2.42258,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 2.772,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 3.02,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 46,
+			"strategyTitle": "Enterprise Microsoft Licenses",
+			"decisionDate": "10/01/2013",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance can be used to further support the mission while sustaining the quality and integrity of the Microsoft product.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.703543,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 47,
+			"strategyTitle": "Colorado River Electrical Utility Management System (CREUMS) Decommissioning",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance reinvested in Electric Utility Management System (EUMS).",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000012"
+			],
+
+			"fy2012": {
+				"amount": 0.047,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 48,
+			"strategyTitle": "Integrated Records Management System (IRMS) Decommissioning",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The cost avoidance was reabsorbed by the Bureau of Indian Affairs Office of Trust Services to fund other trust programs.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000062"
+			],
+			"fy2012": {
+				"amount": 1.238,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.297,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.587,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 1.587,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 49,
+			"strategyTitle": "Mainframe Decommissioning",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The cost avoidance was reabsorbed by the Office of Information Management and Technology - Indian Affairs to fund other IT infrastructure.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000070"
+			],
+			"fy2012": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 1.2,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 51,
+			"strategyTitle": "GLAS Termination",
+			"decisionDate": "04/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance is realized at the program level within Indian Affairs.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000021"
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.186259,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.06,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 52,
+			"strategyTitle": "Operations and Maintenance (O&M) Contract Cost Reduction",
+			"decisionDate": "06/01/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "The cost avoidance was reinvested in the Trust Asset Accounting Management System to fund development efforts.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000077"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.072803,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.070291,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 1.067673,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 53,
+			"strategyTitle": "Vidyo Savings",
+			"decisionDate": "07/01/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance has been reabsorbed into the general operating funds for Region 7.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.138,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.0015,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 54,
+			"strategyTitle": "IT Rent Reductions",
+			"decisionDate": "10/01/2013",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidances reinvested into the Office of Enterprise Information.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.71,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.71,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.71,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 55,
+			"strategyTitle": "Gmail Accounts",
+			"decisionDate": "04/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reinvested into a mission area within the U.S. Geological Survey.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.16,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.16,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 56,
+			"strategyTitle": "NetServices Contract",
+			"decisionDate": "04/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reinvested into the Office of Enterprise Information.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.6,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 57,
+			"strategyTitle": "Elimination of Defense Research Engineering Network (DREN) Network Services",
+			"decisionDate": "04/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance reinvested into Hawaii and Alaska Science Centers.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.05,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 58,
+			"strategyTitle": "Sequestration",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Funds were cut as part of sequestration. There was no reinvestment.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.25,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.25,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 59,
+			"strategyTitle": "HRLoB: Federal Personnel/Payroll System (FPPS) W-2 Processing Savings",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "IBC can keep rates to clients steady, even as some costs for IBC continue to increase.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-999991241"
+			],
+			"fy2012": {
+				"amount": 9.151,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 9.698,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 9.467,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 8.639,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 60,
+			"strategyTitle": "HRLoB: Talent Acquisition System",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "Avoidance allows bureaus to use funding for other areas.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-999991241"
+			],
+			"fy2012": {
+				"amount": 1.574,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 1.555,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 1.224,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 1.014,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 61,
+			"strategyTitle": "HRLoB:QUICKTIME",
+			"decisionDate": "10/01/2013",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "Realized at the program level.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"0010-999991241"
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.06366,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.234033,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 62,
+			"strategyTitle": "HRLoB: Leave and Earning Statements",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "Cost avoidance reinvested at the bureau and office level",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-999991241"
+			],
+			"fy2012": {
+				"amount": 0.6015,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.6646,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.6976,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.6932,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 63,
+			"strategyTitle": "HRLoB: Mainframe Purchase",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "Allowed rates to remain steady despite increases to  other IBC costs.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-999991241"
+			],
+			"fy2012": {
+				"amount": 0.394,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0.397,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0.386,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.361,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.361,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 65,
+			"strategyTitle": "BLM-Cellular Services",
+			"decisionDate": "01/16/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Redirected to pay for the increased level of working capital bill from DOI. ",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 1.877358,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 1.877358,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 1.877358,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 66,
+			"strategyTitle": "Reclamation  Electronic Requirement Document System (REDS)",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "PortfolioStat",
+			"useOfSavingsAvoidance": "Reinvested back into the WCF for records management improvements.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000298"
+			],
+
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.309,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 67,
+			"strategyTitle": "Telecommunications for Land Remote Sensing Program",
+			"decisionDate": "10/01/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidances reinvested into the Land Remote Sensing Program.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.745,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 68,
+			"strategyTitle": "LEIMAGS - Refuges",
+			"decisionDate": "07/06/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Reinvested in the headquarters National Wildlife Refuge System program.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.0609,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.0609,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 69,
+			"strategyTitle": "LEMIS Contract Support",
+			"decisionDate": "07/06/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Reinvested in Office of Law Enforcement programs.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0.331,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.331,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 70,
+			"strategyTitle": "Bureau of Land Management Data Center Consolidation/Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Re-invested into BLM Core Data Center to absorb additional collocated systems and ability to achieve facility power utilization efficiency, per OMB requirement.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.069057,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.366081,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.381142,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.495405,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.495405,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 71,
+			"strategyTitle": "Centrify Licenses",
+			"decisionDate": "10/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Avoidance can be used to further support the mission while sustaining the quality and integrity of the Centrify product.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.2187,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		}, {
+			"strategyId": 72,
+			"strategyTitle": "BIA Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "The budget for the Office of Information Management and Technology - Indian Affairs was reduced therefore there was no reinvestment.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount":0.093833,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount":0.093833,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount":0.093833,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount":0.12369,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.12369,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.12369,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 73,
+			"strategyTitle": "BOR Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "For the Denver Data Center a portion of the cost avoidance was spent to return the space to its original office space configuration for GSA. Another portion of the cost avoidance was used for upgrades to the BLM Core Data Center and BOR Core Switch. Upgrades also include purchase and install of new single mode fiber to each telecommunication closet. Upgrades to BLM Core Data Center also include purchase of DVR and security camera system.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.014184,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.014184,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.069181,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.63558,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.63558,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.616614,
+				"netOrGross": "Gross"
+			}
+		}, {
+			"strategyId": 74,
+			"strategyTitle": "BOEM/BSEE Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Continue use of VMware for virtualization to reduce physical server counts.  Will also study reducing computer room floor space and consolidation of services at other facilities where appropriate.  ",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.1536,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.1536,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.232849,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 75,
+			"strategyTitle": "FWS Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Any and all FDCCI-related cost avoidances will be reinvested to virtualize FWS storage solutions allowing FWS to position itself better for any COOP event.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.000433,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.031843,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.094454,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.566745,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.566745,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.725493,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 76,
+			"strategyTitle": "NPS Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Cost avoidance re-invested in modernization of OneGSS infrastructure, LAN, phone systems, etc.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.007406,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.104446,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.162547,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.314677,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.377131,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.489487,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 77,
+			"strategyTitle": "OHA Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "OHA re-invested data center cost avoidance into migrating and maintaining OHA's infrastructure in a core data center hosting environment.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.278064,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.278064,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 78,
+			"strategyTitle": "OS Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Cost avoidance directly passed on to customers in the form of lower hosting costs.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 1.290279,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 1.290279,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 1.290279,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 1.290279,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 1.796534,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 79,
+			"strategyTitle": "OSMRE Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Cost avoidance has been reinvested into other OSMRE infrastructure or mission related investments.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.058105,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.114964,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.114964,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.114964,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.114964,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.120674,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 80,
+			"strategyTitle": "OST Data Center Consolidation / Optimization",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "OST is reinvesting data center cost savings/avoidance into the following areas: -Virtualization investments and Migration of OST's infrastructure into a core data center hosting environment. -Storage as a Service (SaaS) solution. -Infrastructure as a Service (IaaS) hosted by the Bureau of Indian Affairs (BIA). -Addressing shortfalls in budget and resources.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.027,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.251235,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.251235,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.251235,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.251235,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.289949,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 81,
+			"strategyTitle": "USGS Data Center Consolidation / Optimization ",
+			"decisionDate": "10/01/2012",
+			"ombInitiative": "Data Center",
+			"useOfSavingsAvoidance": "Cost avoidance occurs at the science center level and those funds are used to further support the mission of the science center in which the avoidance occurs.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000342",
+				"010-000002181"
+			],
+			"fy2012": {
+				"amount": 0.05654,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0.066109,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0.066109,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0.09906,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.09906,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 1.088253,
+				"netOrGross": "Gross"
+			}
+		},{
+			"strategyId": 82,
+			"strategyTitle": "BIA FMIS Decommissioning",
+			"decisionDate": "10/01/2011",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance is reinvested in Enterprise Facilities Maintenance and Management System.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000017"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.715,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},{
+			"strategyId": 83,
+			"strategyTitle": "BIA SCIP Decommissioning",
+			"decisionDate": "10/01/2010",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance reinvested in Electric Utility Management System (EUMS).",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000073"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.026,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+			}
+		},{
+			"strategyId": 84,
+			"strategyTitle": "BLM Economic Profile System",
+			"decisionDate": "08/11/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance was redirected to pay for the increased level of working capital bill from DOI.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.1,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 85,
+			"strategyTitle": "BLM Corporate Metadata Repository (CMR)",
+			"decisionDate": "01/01/2014",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance was redirected to pay for the increased level of working capital bill from DOI.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000158"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.013,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 86,
+			"strategyTitle": "USGS Xenity Contract",
+			"decisionDate": "10/01/2015",
+			"ombInitiative": "Software License Management",
+			"useOfSavingsAvoidance": "Cost avoidance reinvested into a mission area within the U.S. Geological Survey.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 1.1,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 87,
+			"strategyTitle": "USGS EWEB Decommissioning",
+			"decisionDate": "10/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance reinvested into a mission area within the U.S. Geological Survey.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000001000"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount":1.75,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 88,
+			"strategyTitle": "USGS InTrust License Reduction",
+			"decisionDate": "12/01/2015",
+			"ombInitiative": "Software License Management",
+			"useOfSavingsAvoidance": "Cost avoidance was reinvested into the hosting program.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.008,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 89,
+			"strategyTitle": "USGS SaS License Reduction",
+			"decisionDate": "03/01/2016",
+			"ombInitiative": "Software License Management",
+			"useOfSavingsAvoidance": "Cost avoidance was reinvested into the Office of Enterprise Information mission.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.058464,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 90,
+			"strategyTitle": "USGS Avaya",
+			"decisionDate": "03/31/2016",
+			"ombInitiative": "Software License Management",
+			"useOfSavingsAvoidance": "Cost avoidance was reinvested into the Office of Enterprise Information mission.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.08,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 91,
+			"strategyTitle": "USGS Telephone Service",
+			"decisionDate": "03/31/2016",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance was reinvested into the Office of Enterprise Information mission.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.0525,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 92,
+			"strategyTitle": "USGS Hosting",
+			"decisionDate": "03/31/2016",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance was reinvested into the Office of Enterprise Information mission.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.02,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+       }
+		},{
+			"strategyId": 93,
+			"strategyTitle": "USGS Southeast Region Contract Reduction",
+			"decisionDate": "09/30/2016",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance occurs at the science center level and is reinvested to further support the mission of the science center in which the avoidance occurs.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0.12,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0,
+				"netOrGross": "Net"
+	}
+
+		},{
+			"strategyId": 94,
+			"strategyTitle": "NR-NR Inside Natural Resources Website",
+			"decisionDate": "10/01/2015",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance redirected to program activities for natural resources management within the National Park Service.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000563"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0.09,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.09,
+				"netOrGross": "Gross"
+	}	
+
+		},{
+			"strategyId": 95,
+			"strategyTitle": "NPS DSC Contracting Services Procurement Database Decommissioning",
+			"decisionDate": "10/01/2017",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance redirected to program activities for park planning, facilities and lands management.",
+			"amountType": "Cost-Avoidance",
+			"relatedUIIs": [
+				"010-000000575"
+			],
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Gross"
+			},
+			"fy2017": {
+				"amount": 0.09,
+				"netOrGross": "Gross"
+	}
+
+		},{
+			"strategyId": 96,
+			"strategyTitle": "USGS Northeast Region Contract Reduction",
+			"decisionDate": "10/01/2016",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance occurs at the science center level and those funds are used to further support the mission of the science center in which the avoidance occurs.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.3,
+				"netOrGross": "Net"
+	}
+
+		},{
+			"strategyId": 97,
+			"strategyTitle": "USGS Consolidated Laptop Purchase",
+			"decisionDate": "04/01/2017",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance was reinvested into the USGS science mission area.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.110247,
+				"netOrGross": "Net"
+	}
+
+		},{
+			"strategyId": 98,
+			"strategyTitle": "USGS Eligible Records Destruction",
+			"decisionDate": "07/01/2017",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost avoidance reinvested into the USGS science mission area.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.2,
+				"netOrGross": "Net"
+	}
+
+		},{
+			"strategyId": 99,
+			"strategyTitle": "USGS Replacement of Akamai DNS solution to less expensive DNS solution",
+			"decisionDate": "01/01/2017",
+			"ombInitiative": "Other",
+			"useOfSavingsAvoidance": "Cost Avoidance reinvested into the USGS Office of Enterprise Information mission.",
+			"amountType": "Cost-Avoidance",
+			"fy2012": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2013": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2014": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2015": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2016": {
+				"amount": 0,
+				"netOrGross": "Net"
+			},
+			"fy2017": {
+				"amount": 0.064,
+				"netOrGross": "Net"
+
+
+			}
+		}
+	]
+}

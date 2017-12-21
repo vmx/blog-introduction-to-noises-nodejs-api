@@ -1,0 +1,1052 @@
+{
+	"strategies": [{
+		"strategyId": 4,
+		"strategyTitle": "FDCCI",
+		"decisionDate": "07/20/2015",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000000229"],
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 11.573,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 5.178,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 2.916,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.968,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 3.93,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0.504,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 5,
+		"strategyTitle": "MIDAS Operational Cost Savings",
+		"decisionDate": "05/14/2016",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000001870"],
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 10.069,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 10,
+		"strategyTitle": "IT Portfolio Rationalization",
+		"decisionDate": "09/30/2014",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000001425"],
+		"useOfSavingsAvoidance": "This cost avoidance streamlines our operations into an efficient and effective organization.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.2,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 11,
+		"strategyTitle": "Operational Excellence",
+		"decisionDate": "09/30/2013",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000001425"],
+		"useOfSavingsAvoidance": "The cost avoidance provides modernization of our processes enabling seamless operations.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 3.72,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.25,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 12,
+		"strategyTitle": "Reduce software costs",
+		"decisionDate": "06/01/2015",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000001726"],
+		"useOfSavingsAvoidance": "Program costs (non-IT)",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.013,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.001,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 13,
+		"strategyTitle": "Electronic Case Trackig",
+		"decisionDate": "05/01/2014",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000003020"],
+		"useOfSavingsAvoidance": "Perform its Ajudicatory mission and \nto fund increase case tracking services.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.1,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.1,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 14,
+		"strategyTitle": "Operational Excellence",
+		"decisionDate": "12/01/2015",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000039"],
+		"useOfSavingsAvoidance": "Reinvest in other projects to improve the program efficiency",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.236,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.4,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 15,
+		"strategyTitle": "Delivery Excellence",
+		"decisionDate": "12/01/2015",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000000039"],
+		"useOfSavingsAvoidance": "Cost Avoidance",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.4,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.4,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 16,
+		"strategyTitle": "IT Portfolio Rationalization",
+		"decisionDate": "10/01/2015",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000001718"],
+		"useOfSavingsAvoidance": "The cost savings will be used for operational expenditures at USDA NITC for the application hosting.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.177,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 17,
+		"strategyTitle": "Mobile Iron Contract re-compete Savings",
+		"decisionDate": "09/01/2015",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000232"],
+		"useOfSavingsAvoidance": "Lower MDM licensing cost reduces out year maintenance renewal.  \n\nIncrease functionality otherwise not available via existing contract to drive new initiatives such as PIV-D capability, updated secure container and per-apps VPN to improve MDM security.\n\nImprove support ? direct access to vendor for support instead of going through reseller.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 2.7,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.5,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 18,
+		"strategyTitle": "Non-Usage clean-up of land lines and circuits in Washington Metropolitan Area",
+		"decisionDate": "10/01/2015",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000232"],
+		"useOfSavingsAvoidance": "Decrease ?old technology? footprint\n\nAgencies savings on monthly telecommunications expenses  \n\nAdditional features available at lower costs when agencies move to Voice over Internet Protocol",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.3,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 19,
+		"strategyTitle": "Electronic Fax Service",
+		"decisionDate": "07/01/2011",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000232"],
+		"useOfSavingsAvoidance": "Participating Agencies Experienced the Cost Savings and Likely Rolled Back the Savings to Support Other Mission/Operating Expenses.  Cost savings was in the agency budget and not in the OCIO budget.",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.7,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 1.7,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 20,
+		"strategyTitle": "Operation Security Contract re-compete savings",
+		"decisionDate": "01/01/2016",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000232"],
+		"useOfSavingsAvoidance": "The savings is used to increase other security services such as upgrading security tools and additional auditing for infrastructure to meet accreditation requirements.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.6,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 21,
+		"strategyTitle": "Leverage Departmental Service Provider to provide secure commodity IT support to FAS overseas staff",
+		"decisionDate": "10/01/2009",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000001729"],
+		"useOfSavingsAvoidance": "This is a cost avoidance strategy to provide services that are otherwise cost-prohibitive",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 4.07,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 4.07,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 22,
+		"strategyTitle": "Dispose of FAS managed international network connections",
+		"decisionDate": "10/01/2009",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000001729"],
+		"useOfSavingsAvoidance": "Offset funding reductions",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 1.85,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 1.85,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 23,
+		"strategyTitle": "Reduce electrical consumption by closing Agency data center",
+		"decisionDate": "10/01/2009",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000001729"],
+		"useOfSavingsAvoidance": "Reduced electric costs realized by Department",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.527,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.527,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 24,
+		"strategyTitle": "Utilize SaaS for Integrated Master Schedule platform",
+		"decisionDate": "07/01/2015",
+		"ombInitiative": "Data Center",
+		"relatedUII": ["005-000001729"],
+		"useOfSavingsAvoidance": "The Integrated Master Schedule was a new requirement for FY2016",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.322,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 25,
+		"strategyTitle": "Business Relationship Management",
+		"decisionDate": "02/01/2016",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000063"],
+		"useOfSavingsAvoidance": "RMA Initiatives",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.5,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 26,
+		"strategyTitle": "Continuous Delivery",
+		"decisionDate": "02/01/2016",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000063"],
+		"useOfSavingsAvoidance": "RMA Initiatives",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 1,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 27,
+		"strategyTitle": "Solution Building Blocks (SBB)",
+		"decisionDate": "02/01/2016",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000063"],
+		"useOfSavingsAvoidance": "RMA Initiatives",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.14,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 28,
+		"strategyTitle": "Delivery Excellence",
+		"decisionDate": "10/01/2015",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000000098"],
+		"useOfSavingsAvoidance": "Unknown",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.814276,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 29,
+		"strategyTitle": "Enterprise Infrastructure Streamlining",
+		"decisionDate": "03/16/2015",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000000038"],
+		"useOfSavingsAvoidance": "Enterpise Cloud solution",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.409,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.855,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 30,
+		"strategyTitle": "Wireless BPA Savings",
+		"decisionDate": "01/15/2015",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000000038"],
+		"useOfSavingsAvoidance": "Centralized Telecom connectivity Improvements",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.4,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.17,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 31,
+		"strategyTitle": "Migration from PRI to SIP",
+		"decisionDate": "10/01/2015",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000000038"],
+		"useOfSavingsAvoidance": "Centralized Telecom connectivity Improvements",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.62,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.62,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 32,
+		"strategyTitle": "Backbone Bandwidth Upgrades",
+		"decisionDate": "10/01/2015",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000000038"],
+		"useOfSavingsAvoidance": "Centralized Telecom connectivity Improvements",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0.35,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 0.35,
+			"netOrGross": "Net"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 33,
+		"strategyTitle": "CDSI Re-Baseline",
+		"decisionDate": "04/01/2015",
+		"ombInitiative": "Other",
+		"relatedUII": ["005-000002376"],
+		"useOfSavingsAvoidance": "Savings are targeted to increase delivery of conservation planning, rather than supporting IT.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Net"
+		},
+		"fy2016": {
+			"amount": 30.668,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 34,
+		"strategyTitle": "Adobe Acrobat Licenses",
+		"decisionDate": "10/01/2015",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "The enterprise agreement allows UDSA to extend Adobe Acrobat to an additional 46,000 users. A capability which would have cost the agency an additional $2,898,000 prior to the implementation of the enterprise agreement.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.363,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 35,
+		"strategyTitle": "Blackberry Cal License",
+		"decisionDate": "05/01/2012",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "USDA consolidates blackberry licenses to achieve volume discounts. The cost savings/avoidance not reflected in this initiative is the workload that was removed from USDA program’s contracting office and IT staff required to support their individual Blackberry technical support contracts.",
+		"amountType": "Both",
+		"fy2012": {
+			"amount": 0.083,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0.04,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 36,
+		"strategyTitle": "Decision Lens",
+		"decisionDate": "10/01/2011",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "USDA created an enterprise agreement that avoided costs they would have incurred from purchasing the services independently through GSA.",
+		"amountType": "Cost-Avoidance",
+		"fy2012": {
+			"amount": 1.189,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 1.291,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 1.538,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 1.47,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 1.47,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 37,
+		"strategyTitle": "Mega NA Inc Licences",
+		"decisionDate": "08/01/2014",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "USDA utilizes an enterprise wide software agreement to facilitate all USDA software purchase requirements. This agreement provided USDA a credit in the amount of $422,000.00 for the proposed USDA software migration to HOPEX. The agreements provides over a 50% discount from commercial pricing for HOPEX software, and converts USDA licenses to a new perpetual named user license.",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0.206,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0.773,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0.633,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 38,
+		"strategyTitle": "Microsoft Desktop and Server Contract",
+		"decisionDate": "07/01/2013",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "USDA identified strategies to provide future benefits of $9M to $12M (fully realized by FY18) with the higher end depending on multiple strategies being executed to their full potential. USDA’s strategies are a mix of short term, long term, and ongoing activities depending email archiving mythologies. USDA realized a benefit of $9M through contract modifications to email archiving.",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 2.4,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	}, {
+		"strategyId": 39,
+		"strategyTitle": "Windows 2003 Extended Support",
+		"decisionDate": "07/15/2015",
+		"ombInitiative": "Software License Management",
+		"useOfSavingsAvoidance": "USDA established an enterprise contract to allow agencies to purchase Windows 2003 extended support while they upgraded their servers. ",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 1.9,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 0,
+			"netOrGross": "Net"
+		}
+	},{
+		"strategyId": 40,
+		"strategyTitle": "End User Services Support (EUSS)",
+		"decisionDate": "11/29/2017",
+		"ombInitiative": "Commodity IT",
+		"relatedUII": ["005-000000232"],
+		"useOfSavingsAvoidance": "",
+		"amountType": "Cost-Savings",
+		"fy2012": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2013": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2014": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2015": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2016": {
+			"amount": 0,
+			"netOrGross": "Gross"
+		},
+		"fy2017": {
+			"amount": 3.9,
+			"netOrGross": "Net"
+		}
+
+	}]
+}

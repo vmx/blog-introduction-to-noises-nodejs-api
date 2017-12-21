@@ -1,0 +1,24 @@
+{
+  "name": "blog-introduction-to-noises-nodejs-api",
+  "version": "1.0.0",
+  "description": "Supplementary repository for the blog post \"Introduction to Noise's Node.js API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmx/blog-introduction-to-noises-nodejs-api.git"
+  },
+  "keywords": [
+    "Noise",
+    "search",
+    "JSON"
+  ],
+  "author": "Volker Mische",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmx/blog-introduction-to-noises-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/vmx/blog-introduction-to-noises-nodejs-api#readme"
+}

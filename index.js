@@ -26,7 +26,8 @@ fs.readdir(inputDir, (_err, files) => {
       });
     });
   });
-  Promise.all(promises).then(() => {
+  Promise.all(promises).then(async () => {
+    await queryNoise('find {} return count()');
     console.log("Done.");
     index.close();
   });
@@ -37,4 +38,11 @@ const processFile = (data) => {
     // Use auto-generated Ids for the documents
     await index.add(strategy);
   });
+};
+
+const queryNoise = async (query) => {
+  const results = await index.query(query);
+  for (const result of results) {
+    console.log(result);
+  }
 };
